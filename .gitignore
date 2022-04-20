@@ -1,0 +1,14 @@
+.DS_Store
+# dependencies
+/node_modules
+.env
+
+# IDEs and editors
+/.idea
+
+dist/
+
+# Elastic Beanstalk Files
+.elasticbeanstalk/*
+!.elasticbeanstalk/*.cfg.yml
+!.elasticbeanstalk/*.global.yml
